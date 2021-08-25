@@ -4,10 +4,16 @@ using UnityEngine;
 
 public class qqqqq : MonoBehaviour
 {
+    //¤·¤·
+
     // Start is called before the first frame update
     void Start()
     {
+
         //·ê·ç¶ö¶óÇÏÇÏÇÏÇÏ
+
+       
+
     }
 
     // Update is called once per frame
