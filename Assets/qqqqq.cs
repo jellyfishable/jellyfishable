@@ -7,12 +7,12 @@ public class qqqqq : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //·ê·ç¶ö¶ó
+        //·ê·ç¶ö¶óÇÏÇÏÇÏÇÏ
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        //È÷È÷È÷È÷
     }
 }
